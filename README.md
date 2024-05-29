@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on yes
 - 📫 How to reach me, sleep
 - 😄 Pronouns: sillva
-- ⚡ Fun fact: my student
+- ⚡ Fun fact: yes, I study
+
 
 <!---
 joel-matheus/joel-matheus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
